@@ -24,7 +24,7 @@ Following are the observations:
 
 2) Figure 1.4 shows that January had least amount of bike share whereas in summer season bike share was high.
 
-![cnt_months_pic](https://user-images.githubusercontent.com/41015749/72564290-6d0f2d00-387d-11ea-8d83-53fc4ccf40a7.jpg)
+![cnt_months_pic](https://user-images.githubusercontent.com/41015749/72565102-29b5be00-387f-11ea-8e97-1bb52e22f719.jpg)
 
 3) Figure 1.5 shows that when weather was clear bike share was maximum, when misty, it was less, when light snow it was lesser and when heavy rain, it was least.
 
