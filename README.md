@@ -18,27 +18,27 @@ Whereas on Saturdays and Sundays a “mountain-like” shape is observed meaning
 
 Following are the observations:
 
-1) Figure 1.3 shows that most of the "cnt" values fall between 40 to 280 however there are a lot of outliers too.
+1) Following figure shows that most of the "cnt" values fall between 40 to 280 however there are a lot of outliers too.
 
 ![cnt_pic](https://user-images.githubusercontent.com/41015749/72564323-78faef00-387d-11ea-8ca4-48449985477c.jpg)
 
-2) Figure 1.4 shows that January had least amount of bike share whereas in summer season bike share was high.
+2) Following figure shows that January had least amount of bike share whereas in summer season bike share was high.
 
 ![cnt_months_pic](https://user-images.githubusercontent.com/41015749/72565102-29b5be00-387f-11ea-8e97-1bb52e22f719.jpg)
 
-3) Figure 1.5 shows that when weather was clear bike share was maximum, when misty, it was less, when light snow it was lesser and when heavy rain, it was least.
+3) Following figure shows that when weather was clear bike share was maximum, when misty, it was less, when light snow it was lesser and when heavy rain, it was least.
 
 ![cnt_weather_pic](https://user-images.githubusercontent.com/41015749/72564059-f5d99900-387c-11ea-9b61-bc7423dee720.jpg)
 
-4) Figure 1.6 shows that on weekends, bike share was less compared to weekdays.
+4) Following figure shows that on weekends, bike share was less compared to weekdays.
 
 ![cnt_working_day_pic](https://user-images.githubusercontent.com/41015749/72565258-76999480-387f-11ea-8596-bba02f062b2b.jpg)
 
-5) Figure 1.7 shows that bike share is high from 7 to 9 am then from 4 to 8pm which makes sense as 7 to 9am and 4 to 8pm are school/office going and leaving time respectively.
+5) Following figure shows that bike share is high from 7 to 9 am then from 4 to 8pm which makes sense as 7 to 9am and 4 to 8pm are school/office going and leaving time respectively.
 
 ![cnt_hours_pic](https://user-images.githubusercontent.com/41015749/72564149-26213780-387d-11ea-8c4d-ec3746d2d817.jpg)
 
-6) Figure 1.8 shows that the higher the temperature, the higher the bike share. Colder temperatures mean less bike share.
+6) Following figure shows that the higher the temperature, the higher the bike share. Colder temperatures mean less bike share.
 
 ![cnt_temperature_pic](https://user-images.githubusercontent.com/41015749/72564171-333e2680-387d-11ea-9f2e-82b3212fb1c6.jpg)
 
@@ -50,7 +50,7 @@ There are a lot of machine learning models used for predicting time-series data 
 
 ## Result:
 
-LSTM based model’s mean absolute deviation was 144.76 compared to actual data which had 149.7. Figure 1.9 shows the comparison of actual data vs LSTM predicted data. LSTM based predictor model is found to be working well.
+LSTM based model’s mean absolute deviation was 144.76 compared to actual data which had 149.7. Following figure shows the comparison of actual data vs LSTM predicted data. LSTM based predictor model is found to be working well for bike-share demand forecasting.
 
 ![cnt_comparison_pic](https://user-images.githubusercontent.com/41015749/72564490-d4c57800-387d-11ea-8f64-95339a7bfcfe.jpg)
 
