@@ -32,7 +32,7 @@ Following are the observations:
 
 4) Figure 1.6 shows that on weekends, bike share was less compared to weekdays.
 
-![cnt_working_day_pic](https://user-images.githubusercontent.com/41015749/72564089-02f68800-387d-11ea-9dfb-88fdf0840883.jpg)
+![cnt_working_day_pic](https://user-images.githubusercontent.com/41015749/72565258-76999480-387f-11ea-8596-bba02f062b2b.jpg)
 
 5) Figure 1.7 shows that bike share is high from 7 to 9 am then from 4 to 8pm which makes sense as 7 to 9am and 4 to 8pm are school/office going and leaving time respectively.
 
