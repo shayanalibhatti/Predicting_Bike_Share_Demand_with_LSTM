@@ -1,7 +1,7 @@
 # Predicting Bike Share Demand with LSTM
 
 ## Scope of Project:
-The scope of this task is to observe different parameters such as season, hours, temperature, day of weeks etc., how they affect the hourly bike share demand explained by “cnt” column in Capital Bike Share dataset that can be found at https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset.
+The scope of this task is to observe different parameters such as season, hours, temperature, day of weeks etc., how they affect the hourly bike share demand explained by “cnt” column in Capital Bike Share dataset that can be found at https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset and then make a machine learning based predictor to predict bike share demand.
 
 ![image](https://user-images.githubusercontent.com/41015749/72564567-0b9b8e00-387e-11ea-9095-598cc8dc11fc.png)
 
