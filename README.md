@@ -51,7 +51,7 @@ There are a lot of machine learning models used for predicting time-series data 
 
 ## Result:
 
-LSTM based model’s mean absolute deviation was 144.76 compared to actual data which had 149.7. Following figure shows the comparison of actual data vs LSTM predicted data. LSTM based predictor model is found to be working well for bike-share demand forecasting.
+In the end, test set was given to LSTM to get its predictions. It was seen that LSTM based model's mean absolute deviation was 144.76 compared to actual data which had 149.7. Following figure shows the comparison of actual Bike Share Demand "actual cnt" vs LSTM predicted Bike Share Demand "predicted cnt". LSTM based predictor model is found to be working well for bike-share demand forecasting.
 
 ![cnt_comparison_pic](https://user-images.githubusercontent.com/41015749/72564490-d4c57800-387d-11ea-8f64-95339a7bfcfe.jpg)
 
