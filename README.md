@@ -4,7 +4,7 @@ In this project, I implemented machine learning based model LSTM to predict hour
 ## Scope of Project:
 The scope of this task is to observe different parameters such as season, hours, temperature, day of weeks etc., how they affect the hourly bike share demand explained by “cnt” column in Capital Bike Share dataset that can be found at https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset and then make a machine learning based predictor to predict bike share demand.
 
-![image](https://user-images.githubusercontent.com/41015749/72564567-0b9b8e00-387e-11ea-9095-598cc8dc11fc.png)
+![](https://github.com/shayanalibhatti/Predicting_Bike_Share_Demand_with_LSTM/blob/master/capital%20bike%20share.jpg?raw=true)
 
 ## Methodology:
 First, I visualized the dataset in Tableau to see how Bike Share Demand count “cnt” is varying with respect to hours of the day. My focus was to see how weekend “cnt” varies from weekday’s “cnt” and it was observed that weekday “cnt” displays a “bat ear” kind of response meaning that “cnt” was highest from 6am to 10am and from 4pm to 7pm with a little surge on noon (probably for lunch time) which makes sense as these times are for going to and leaving from office/schools/college etc. An example of bike share hourly data for 7th-11th Feb, 2011 is shown in figure below:
