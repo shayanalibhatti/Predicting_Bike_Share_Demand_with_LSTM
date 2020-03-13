@@ -9,6 +9,7 @@ The scope of this task is to observe different parameters such as season, hours,
 ## Methodology:
 First, I visualized the dataset in Tableau to see how Bike Share Demand count “cnt” is varying with respect to hours of the day. My focus was to see how weekend “cnt” varies from weekday’s “cnt” and it was observed that weekday “cnt” displays a “bat ear” kind of response meaning that “cnt” was highest from 6am to 10am and from 4pm to 7pm with a little surge on noon (probably for lunch time) which makes sense as these times are for going to and leaving from office/schools/college etc. An example of bike share hourly data for 7th-11th Feb, 2011 is shown in figure below:
 
+![](https://raw.githubusercontent.com/shayanalibhatti/Predicting_Bike_Share_Demand_with_LSTM/master/weekday_pic.jpg)
 ![weekday pic](https://github.com/shayanalibhatti/Predicting_Bike_Share_Demand_with_LSTM/weekday_pic.jpg)
 ![weekday_pic](https://user-images.githubusercontent.com/41015749/72563506-d42be200-387b-11ea-9f7a-ba532f5e478d.jpg)
 
